@@ -35,7 +35,7 @@ Formación
 
 
 Contacto
-![Portfolio](https://img.shields.io/badge/Portfolio-nahuelcabral.com.ar-222222?style=flat&logo=safari&logoColor=white)
+![Portfolio](https://www.cabralnahuel.com.ar)
  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel%20Cabral-0077B5?style=flat&logo=linkedin&logoColor=white)
  
